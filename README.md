@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on Translation Site
  
- 🌱 I’m currently learning Angular, More Java, TailWindCSS and Astro!
+ 🌱 I’m currently learning **Angular, Java, TailWindCSS and Astro!**
 
-💬 Ask me about **Java, Angular, Astro, JavaScript, VideoGames and more! **
+💬 Ask me about **Java, Angular, Astro, JavaScript, VideoGames and more!**
 
 ⚡ Fun fact about me **I have a cat, his name is Michi**
 
