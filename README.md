@@ -1,14 +1,76 @@
-- 👋 Hi, I’m Nicolay
-- 👀 I’m interested Software development, in this moment i'm leaning how to use repositories in the live of a programmer.
-- Im here to learn all the stuff as i can. If you want to know some of my hobbyes, there is it.
-- I usually watch anime, manga, and manhwas, i love Stains gate and all the topics relationated with science fiction
-- I play some games too, i prefer the shooter games than the others. Csgo, fornite etc. 
-- 🌱 I’m currently learning Spring using java, Javascript, css, html and php, but in this moment im not too interested of using php in my proyects
-- 💞️ I’m looking to collaborate on all as i can and understand how the code works
-- 📫 If you want to talk whit me, there's an email to contact. rakun130143@gmail.com
-- Thanks to all the people who reached here! 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!---
-Rakkun9/Rakkun9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nicolay!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Colombia </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on Translation Site
+ 
+ 🌱 I’m currently learning Angular, More Java, TailWindCSS and Astro!
+
+💬 Ask me about **Java, Angular, Astro, JavaScript, VideoGames and more! **
+
+⚡ Fun fact about me **I have a cat, his name is Michi**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="jnicolaybv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href=https://www.linkedin.com/in/nicolaybuitrago/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio-nicolay.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,notion,npm,postman,windows,astro" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,spring,mysql,php,idea" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rakkun9/Rakkun9/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
